@@ -6,7 +6,6 @@
 // ORIGINAL CODE
 // (function IIFE(){
 
-
 ((foo, p, list1, list2) =>
 	//use x and y as parameters
 	// y uses default parameter values to make assignment
@@ -58,7 +57,6 @@
 			, 200
 		))
 	))();
-
 
 // ORIGINAL CODE
 // 		return function bar(z) {
